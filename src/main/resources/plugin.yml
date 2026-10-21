@@ -1,0 +1,10 @@
+name: BlockPhysicsSimulator
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+api-version: "1.21"
+description: Simulates natural, realistic block physics in Minecraft
+commands:
+  physics:
+    description: Toggle block physics simulation
+    usage: /physics <on|off>
